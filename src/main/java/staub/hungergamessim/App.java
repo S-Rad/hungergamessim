@@ -2,7 +2,7 @@ package staub.hungergamessim;
 
 /**
  * Hello world!
- * Test commit
+ * Test commit 2
  */
 public class App {
     public static void main(String[] args) {
